@@ -14,7 +14,7 @@ We are **not** affiliated with Mojang or Microsoft!
 
 ## Overview
 
-
+Whether you're just starting out or looking to enhance your Minecraft server, this Wiki is your go-to resource. Here, you'll find comprehensive guides on setting up plugins and configuring your server for optimal performance. Our aim is to simplify the process, ensuring you get the most out of your Minecraft experience.
 
 ## Quick links
 
