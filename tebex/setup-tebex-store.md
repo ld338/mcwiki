@@ -5,9 +5,9 @@ coverY: 0
 
 # 💲 Setup Tebex Store
 
-#### Step 1: Create an Account
+Step 1: Create an Account
 
-Start by navigating to the website of your choice where you need an account. Look for the "Sign Up" or "Create Account" button, usually found on the top right corner of the homepage.
+Start by navigating to the [**website**](https://affiliate.tebex.io/r/1e4e2a48-d0e6-4da3-9a16-00591ed65d7c) of your choice where you need an account. Look for the "Sign Up" or "Create Account" button, usually found on the top right corner of the homepage.
 
 #### Step 2: Follow the Setup Instructions
 
