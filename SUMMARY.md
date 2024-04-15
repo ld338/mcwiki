@@ -11,3 +11,5 @@
 
 * [🔐 Installation](pterodactyl/installation.md)
 * [🔱 Great AddOns & Themes](pterodactyl/great-addons-and-themes.md)
+* [💶 Best Billing Systems](pterodactyl/best-billing-systems.md)
+* [🖥️ Hosts](pterodactyl/hosts.md)
