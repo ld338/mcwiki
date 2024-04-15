@@ -4,7 +4,8 @@
 
 ## 🚩 Tutorials
 
-* [😉 Tutorials](tutorials/tutorials.md)
+* [🏳️ Aikar's Flags](tutorials/aikars-flags.md)
+* [🪛 Tools](tutorials/tools.md)
 
 ## 💸 Tebex
 
