@@ -1,5 +1,5 @@
 ---
-description: These are the best hosters i could find.
+description: These are the best hosts for Minecraft or Pterodactyl i could find.
 ---
 
 # 🖥️ Hosts
@@ -19,3 +19,4 @@ Alveon is a really affordable hosting. Its really good for small budgeds!
 {% embed url="https://ht-hosting.de/aff.php?aff=222" %}
 HT-Hosting is a really chep hosting. It has not the best support. Its sometimes down but its cheap!
 {% endembed %}
+
