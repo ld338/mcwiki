@@ -2,10 +2,20 @@
 
 * [👋 Welcome to MCWIKI](README.md)
 
+## 🚩 Tutorials
+
+* [😉 Tutorials](tutorials/tutorials.md)
+
 ## 💸 Tebex
 
 * [⁉️ What is Tebex?](tebex/what-is-tebex.md)
 * [💲 Setup Tebex Store](tebex/setup-tebex-store.md)
+
+## ❤️ Essentials
+
+* [🔉 Plugins](essentials/plugins.md)
+* [🗺️ Maps](essentials/maps.md)
+* [💠 Mods](essentials/mods.md)
 
 ## 🐦 Pterodactyl
 

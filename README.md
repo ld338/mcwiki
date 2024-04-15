@@ -22,6 +22,18 @@ Whether you're just starting out or looking to enhance your Minecraft server, th
 [setup-tebex-store.md](tebex/setup-tebex-store.md)
 {% endcontent-ref %}
 
+{% content-ref url="pterodactyl/best-billing-systems.md" %}
+[best-billing-systems.md](pterodactyl/best-billing-systems.md)
+{% endcontent-ref %}
+
+{% content-ref url="pterodactyl/great-addons-and-themes.md" %}
+[great-addons-and-themes.md](pterodactyl/great-addons-and-themes.md)
+{% endcontent-ref %}
+
+{% content-ref url="pterodactyl/hosts.md" %}
+[hosts.md](pterodactyl/hosts.md)
+{% endcontent-ref %}
+
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
