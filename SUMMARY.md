@@ -6,6 +6,11 @@
 
 * [🏳️ Aikar's Flags](tutorials/aikars-flags.md)
 * [🪛 Tools](tutorials/tools.md)
+* [🏎️ Optimization guide](tutorials/optimization-guide.md)
+* [🎲 Set Default Game Mode](tutorials/set-default-game-mode.md)
+* [🗺️ Set Up a Flat World](tutorials/set-up-a-flat-world.md)
+* [🎱 Give Yourself Operator (OP) Status](tutorials/give-yourself-operator-op-status.md)
+* [🏝️ Installing Geyser with Floodgate](tutorials/installing-geyser-with-floodgate.md)
 
 ## 💸 Tebex
 
