@@ -10,6 +10,7 @@
 
 * [⁉️ What is Tebex?](tebex/what-is-tebex.md)
 * [💲 Setup Tebex Store](tebex/setup-tebex-store.md)
+* [💄 Tebex Themes](tebex/tebex-themes.md)
 
 ## ❤️ Essentials
 
