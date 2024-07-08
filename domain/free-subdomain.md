@@ -1,6 +1,11 @@
+---
+cover: ../.gitbook/assets/24439-16584593271068-1920.webp
+coverY: 0
+---
+
 # ☺️ Free Subdomain
 
-This guide outlines the commands you can use to control the Discord bot for managing subdomains. Join [this](https://discord.gg/RHrxQtpkhH) Discord Server or [invite ](https://discord.com/oauth2/authorize?client\_id=1259519525393797251)this Bot!
+This guide outlines the commands you can use to control the Discord bot for managing subdomains. Join [this](https://discord.gg/RHrxQtpkhH) Discord Server!
 
 #### Available Commands
 
