@@ -1,10 +1,12 @@
-# Contributing to the Wiki
+# Contributing to the MCWiki Project
+
+Hello,
 
 Thank you for considering contributing to our project! Please take a moment to review this document before proceeding.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [Contact Information].
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to me@ld338.de.
 
 ## Contributing
 
@@ -31,14 +33,8 @@ We welcome contributions from everyone. Here are a few guidelines to help you ge
 
 ### License
 
-By contributing to this project, you agree that your contributions will be licensed under the [license name] license.
+By contributing to this project, you agree that your contributions will be licensed under the GNU General Public License (GPL) license.
 
 ### Security Vulnerabilities
 
-If you discover a security vulnerability within the project, please report it to [Contact Information]. We appreciate your help in improving the security of our project.
-
-## Attribution
-
-This Contributing guideline is adapted from [source], and we are grateful for their contribution to open source.
-
----
+If you discover a security vulnerability within the project, please report it to me@ld338.de. We appreciate your help in improving the security of our project.
