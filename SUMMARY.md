@@ -31,6 +31,10 @@
 * [🎱 Give Yourself Operator (OP) Status](tutorials/give-yourself-operator-op-status.md)
 * [🏝️ Installing Geyser with Floodgate](tutorials/installing-geyser-with-floodgate.md)
 
+## ☮️ Domain
+
+* [☺️ Free Subdomain](domain/free-subdomain.md)
+
 ***
 
 * [⁉️ Suggestions or Bugs?](suggestions-or-bugs.md)
