@@ -5,7 +5,7 @@ coverY: 0
 
 # ☺️ Free Subdomain
 
-This guide outlines the commands you can use to control the Discord bot for managing subdomains. Join [this](https://discord.gg/RHrxQtpkhH) Discord Server!
+This guide outlines the commands you can use to control the Discord bot for managing subdomains. Join [this](https://discord.gg/RHrxQtpkhH) awsome Discord Server!
 
 #### Available Commands
 
